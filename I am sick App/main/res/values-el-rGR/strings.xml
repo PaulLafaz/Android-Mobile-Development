@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ήχοι και κουμπιά</string>
+    <string name="score">Σκόρ</string>
+    <string name="sneeze">Φτερνίσου</string>
+    <string name="blowing">Φύσα μύτη</string>
+    <string name="medication">Πάρε φάρμακο</string>
+</resources>

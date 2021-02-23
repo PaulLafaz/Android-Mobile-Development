@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Noise and Buttons</string>
+    <string name="score">Score</string>
+    <string name="sneeze">Sneeze</string>
+    <string name="blowing">Blow Nose</string>
+    <string name="medication">Take Medication</string>
+</resources>

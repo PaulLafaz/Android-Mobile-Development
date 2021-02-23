@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/score"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.481"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.304" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="435dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="100dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.478">
+
+        <Button
+            android:id="@+id/sneeze_button"
+            android:layout_width="125dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/sneeze" />
+
+        <Button
+            android:id="@+id/medication_button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/medication" />
+
+        <Button
+            android:id="@+id/blow_button"
+            android:layout_width="163dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/blowing" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
