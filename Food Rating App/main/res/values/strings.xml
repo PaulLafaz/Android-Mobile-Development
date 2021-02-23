@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Picture This</string>
+    <string name="butter_chicken">Butter Chicken</string>
+    <string name="gnocchi">Gnocchi</string>
+    <string name="ice_cream">Cookie Dough Ice Cream</string>
+    <string name="wrap">Chicken Skewer Wrap</string>
+    <string name="rating">Rating: </string>
+    <string name="name_title">Name of food: </string>
+    <string name="date">Date of photo: </string>
+    <string name="cuisine_title">Category: </string>
+</resources>
