@@ -7,5 +7,15 @@ The purpose of this app is to:
 and display them to the user in a scrollable list
 * Display extra infromramtion using a toast when the user taps on a city in the list
 
-Feel free and take a look!
+
+
+### Here are some images of what the applications looks like:
+ <br>
+ 
+ _First View of the the App:_ | _Info being displayed when the user taps on an element in the list:_
+-----------------------------------------------|---------------------------------------------------
+<img src="https://github.com/PaulLafaz/Android-Mobile-Development/blob/main/Town%20Info%20List%20App/images/applicationLooks.PNG" width="375" height="750"> | <img src="https://github.com/PaulLafaz/Android-Mobile-Development/blob/main/Town%20Info%20List%20App/images/ToastDisplayed.PNG" width="375" height="750">
+
+
+Feel free to take a closer look! ^^
  
