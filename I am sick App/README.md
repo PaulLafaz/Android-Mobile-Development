@@ -23,7 +23,7 @@ This is what the application looks like:
 
 <br>
 
-This is also what the app looks like in a horizontal layout:
+Also this is what the app looks like if the horizontal layout ia applied:
 
  _Main Screen - Horizontal Layout:_ |  
 -----------------------------------------------| 
