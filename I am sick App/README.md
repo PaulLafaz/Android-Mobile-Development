@@ -15,7 +15,7 @@ Another notewortyhy function of the app is that is saves its state so that when 
 The app also contains a locale file that makes it available in Greek and a layout file that is displayed 
 when the user rotates their phone. 
  
-This is what the application looks like:
+### This is what the application looks like:
 
  _Main Screen - Englisht Version:_ | _Main Screen - Greek Version:_
 -----------------------------------------------|---------------------------------------------------
