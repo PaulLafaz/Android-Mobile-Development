@@ -16,6 +16,12 @@ The app also contains a locale file that makes it available in Greek and a layou
 when the user rotates their phone. 
  
 This is what the application looks like:
-(Insert image here<--)
+
+ _Main Screen:_ | _Food Details:_
+-----------------------------------------------|---------------------------------------------------
+<img src="https://github.com/PaulLafaz/Android-Mobile-Development/blob/main/Food%20Rating%20App/images/firstActivityImage.PNG" width="400" height="650"> | <img src="https://github.com/PaulLafaz/Android-Mobile-Development/blob/main/Food%20Rating%20App/images/SecondActivity.PNG" width="400" height="650">
+
+
+
   
 Feel free and take a look!
