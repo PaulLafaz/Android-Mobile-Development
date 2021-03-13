@@ -23,7 +23,7 @@ when the user rotates their phone.
 
 <br>
 
-Also this is what the app looks like if the horizontal layout ia applied:
+### Also this is what the app looks like if the horizontal layout ia applied:
 
  _Main Screen - Horizontal Layout:_ |  
 -----------------------------------------------| 
