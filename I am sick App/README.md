@@ -21,8 +21,12 @@ This is what the application looks like:
 -----------------------------------------------|---------------------------------------------------
 <img src="https://github.com/PaulLafaz/Android-Mobile-Development/blob/main/I%20am%20sick%20App/images/MainScreen_ENG.PNG" width="400" height="650"> | <img src="https://github.com/PaulLafaz/Android-Mobile-Development/blob/main/I%20am%20sick%20App/images/MainScreen_GR.PNG" width="400" height="650">
 
-This is what the app looks like in the horizontal layout:
+<br>
 
-<img src="https://github.com/PaulLafaz/Android-Mobile-Development/blob/main/I%20am%20sick%20App/images/MainScreen_Horizontal.PNG" >
+This is also what the app looks like in a horizontal layout:
+
+ _Main Screen - Englisht Version:_ |  
+-----------------------------------------------| 
+<img src="https://github.com/PaulLafaz/Android-Mobile-Development/blob/main/I%20am%20sick%20App/images/MainScreen_Horizontal.PNG" /> |
 
 Feel free to take a closer look at the code!
