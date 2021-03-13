@@ -25,7 +25,7 @@ This is what the application looks like:
 
 This is also what the app looks like in a horizontal layout:
 
- _Main Screen - Englisht Version:_ |  
+ _Main Screen - Horizontal Layout:_ |  
 -----------------------------------------------| 
 <img src="https://github.com/PaulLafaz/Android-Mobile-Development/blob/main/I%20am%20sick%20App/images/MainScreen_Horizontal.PNG" /> |
 
