@@ -11,7 +11,7 @@ Relevant information:
 * The application uses parcelised objects to transfer information between activities.
 * There is a basic level of input validation.
 
-Here are some photos:
+### Here are some photos:
 
  _Main Screen:_ | _Food Details:_
 -----------------------------------------------|---------------------------------------------------
