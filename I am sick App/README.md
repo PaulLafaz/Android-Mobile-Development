@@ -1,4 +1,4 @@
-# I am Sick Application
+# I am Sick Application ("Noise and Buttons")
 
 Here is my very first application I developed during my time studying Computer Science.
 
