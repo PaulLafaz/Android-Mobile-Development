@@ -1,4 +1,4 @@
-# Town Info Application
+# Town Info Application ("My Town")
 
 Here is a Town Info List app I've developed during my time studying Computer Science.
 
