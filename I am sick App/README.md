@@ -17,9 +17,9 @@ when the user rotates their phone.
  
 This is what the application looks like:
 
- _Main Screen:_ | _Food Details:_
+ _Main Screen - Englisht Version:_ | _Main Screen - Greek Version:_
 -----------------------------------------------|---------------------------------------------------
-<img src="https://github.com/PaulLafaz/Android-Mobile-Development/blob/main/Food%20Rating%20App/images/firstActivityImage.PNG" width="400" height="650"> | <img src="https://github.com/PaulLafaz/Android-Mobile-Development/blob/main/Food%20Rating%20App/images/SecondActivity.PNG" width="400" height="650">
+<img src="https://github.com/PaulLafaz/Android-Mobile-Development/blob/main/I%20am%20sick%20App/images/MainScreen_ENG.PNG" width="400" height="650"> | <img src="https://github.com/PaulLafaz/Android-Mobile-Development/blob/main/I%20am%20sick%20App/images/MainScreen_GR.PNG" width="400" height="650">
 
 
 
